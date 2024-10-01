@@ -8,22 +8,23 @@ Mapeamento do mercado brasileiro de dados realizado pela comunidade Data Hackers
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=whit)](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023)
 
+LinkedIn das contribuidoras do projeto:
 </p>
 
-Meu LinkedIn 
+Camila
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-rodrigues-mota/)
 
 </p>
 
-LinkedIn da Fatima 
+Fatima 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teixeira-fatima/)
 
 </p>
 
-LinkedIn da Ingrid
+Ingrid
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-macario/)
 
 </p>
 
-LinkedIn da Jéssika
+Jéssika
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessikaguido/)
