@@ -18,10 +18,10 @@ O desafio utilizou o dataset **State of Data Brazil 2023**, um mapeamento do mer
 
 ## 🤝 Contribuidoras
 
-- [Camila Mota](https://www.linkedin.com/in/camilarmota)
-- [Fatima](https://www.linkedin.com/in/fatima)
-- [Ingrid](https://www.linkedin.com/in/ingrid)
-- [Jéssika](https://www.linkedin.com/in/jessika)
+- [Camila Mota](https://www.linkedin.com/in/camila-rodrigues-mota/)
+- [Fatima](https://www.linkedin.com/in/teixeira-fatima/)
+- [Ingrid](https://www.linkedin.com/in/ingrid-macario/)
+- [Jéssika](https://www.linkedin.com/in/jessikaguido/)
 
 ## 🏆 Resultados
 
