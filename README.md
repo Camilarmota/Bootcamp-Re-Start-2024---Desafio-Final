@@ -2,7 +2,7 @@
 Desafio final do Bootcamp de Data Science da Comunidade Data Girl - Vencedor do desafio
 
 O dataset utilizado no desafio foi o State of Data Brazil 2023 - 
-Mapeamento do mercado brasileiro de dados realizado pela comunidade Data Hackers em parceria com a Bain & Company
+Mapeamento do mercado brasileiro de dados realizado pela comunidade Data Hackers em parceria com a Bain & Company.
 
 </p>
 
