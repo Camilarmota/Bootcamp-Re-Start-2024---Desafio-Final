@@ -14,7 +14,7 @@ O desafio utilizou o dataset **State of Data Brazil 2023**, um mapeamento do mer
 
 - **Jupyter Notebook**
 - **Python** para manipulação e análise de dados
-- **Pandas** e **Matplotlib** para visualizações
+- **Pandas**, **Seaborn** e **Matplotlib** para visualizações
 
 ## 🤝 Contribuidoras
 
